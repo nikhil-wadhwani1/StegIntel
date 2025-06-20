@@ -1,0 +1,17 @@
+Steganography Extraction Report
+========================================
+File: data/spiderman.jpeg
+Detected Methods: exif, dct_jpeg, steghide
+
+EXIF Results:
+--------------------
+No data extracted
+
+DCT_JPEG Results:
+--------------------
+No data extracted
+
+STEGHIDE Results:
+--------------------
+Data found (see individual files)
+

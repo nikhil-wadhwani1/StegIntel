@@ -1,0 +1,17 @@
+Steganography Extraction Report
+========================================
+File: data/stego_image.png
+Detected Methods: file_appending, exif, lsb
+
+LSB Results:
+--------------------
+No data extracted
+
+FILE_APPENDING Results:
+--------------------
+No data extracted
+
+EXIF Results:
+--------------------
+No data extracted
+

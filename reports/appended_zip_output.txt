@@ -1,0 +1,6 @@
+--- Bank Details.txt ---
+Bank Details
+Name- Abu
+ACC number- 72628627766
+password-hcxggf
+
